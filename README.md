@@ -33,7 +33,7 @@ This repository showcases three websites I developed using **WordPress** with **
 - Tailored WooCommerce features for dental product listings.
 
 ## About Me
-I am Abdallah Naser ,backend developer using Laravel , frontend using Reactjs,and I'm a skilled WordPress Designer/Developer
+I am Abdallah Naser ,backend developer  , frontend using Reactjs,and I'm a skilled WordPress Designer/Developer
  with extensive experience in creating and customizing websites using WordPress, Elementor, and WooCommerce.
 
 ## License
